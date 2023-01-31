@@ -22,3 +22,8 @@
 #topNav > ul > li > a:hover {
   color: black;
 }
+.centered {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
